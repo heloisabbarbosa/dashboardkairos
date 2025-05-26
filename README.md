@@ -29,7 +29,7 @@ Possui também uma parte de login:
 ## Apps
 - Vscode
 
-## 📔 Linguagens de programção
+## 📔 Linguagens de programação
 - JavaScript e HTML/CSS
 
 ## Como executar o projeto
